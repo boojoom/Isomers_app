@@ -1,16 +1,7 @@
-# test_run
+# Isomers_app
 
-A new Flutter project.
+A first Flutter project. This app allows user to search for various isomers after providing the chemical formula in search bar. Fir now this project is only available in English. Newer features coming soon.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app is easy to use - click on the start b utton, then on the add button and you're ready to start your search.
