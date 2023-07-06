@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235801685063",
+    "project_id": "organic-database-a6fbc",
+    "storage_bucket": "organic-database-a6fbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235801685063:android:b64121ee1005c5002e5562",
+        "android_client_info": {
+          "package_name": "com.example.test_run"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235801685063-9jlsbhv8bh5rf9ulbt053kpbpcv5p9bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt52l9Argev9pe6uZ4hgHITYolWVMkg1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235801685063-9jlsbhv8bh5rf9ulbt053kpbpcv5p9bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
