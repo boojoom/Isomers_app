@@ -37,11 +37,11 @@ dependencies:
   cupertino_icons: ^1.0.2
   cloud_firestore: ^4.8.0
   firebase_core: ^2.13.1
+  flutter_launcher_icons: ^0.13.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_launcher_icons: "^0.9.2"
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -105,4 +105,4 @@ fonts:
 flutter_icons:
   android: true
   ios: true
-  image_path: "assets/atom_icon.png"
+  image_path: "assets/start.png"
